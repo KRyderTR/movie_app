@@ -29,8 +29,6 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
 
-      <div className='font-bold'>asdljhasgjdgasljkadsjk</div>
-      <div className=''>asdadsa</div>
     </>
   )
 }
